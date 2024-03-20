@@ -1,0 +1,3 @@
+Owner model intercept: -0.4713009309977957
+Owner model weights: 
+[-0.17976349297069702]

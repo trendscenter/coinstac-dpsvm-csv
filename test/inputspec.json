@@ -1,0 +1,182 @@
+[
+  {
+    "data": {
+      "value": ["site1_Data.csv"]
+    },
+    "covariates": {
+      "value": ["site1_Covariate.csv"]
+    },
+    "x_headers": {
+      "value": ["Left-Lateral-Ventricle","Right-Lateral-Ventricle"]
+    },
+    "y_headers": {
+      "value": ["isControl", "age"]
+    },
+    "label": {
+      "fulfilled": true,
+      "value": "isControl"
+    },
+    "model_local": {
+        "fulfilled": true,
+        "value": "SVM"
+    },
+    "is_private_local": {
+        "fulfilled": true,
+        "value": true
+    },
+    "perturb_method_local": {
+        "fulfilled": true,
+        "value": "objective"
+    },
+    "lambda_local": {
+        "fulfilled": true,
+        "value": 0.0001
+    },
+    "epsilon_local": {
+        "fulfilled": true,
+        "value": 30
+    },
+    "huberconst_local": {
+        "fulfilled": true,
+        "value": 0.5
+    },
+    "fit_intercept_local": {
+        "fulfilled": true,
+        "value": true
+    },
+    "intercept_scaling_local": {
+        "fulfilled": true,
+        "value": 1.0
+    },
+    "model_owner": {
+        "fulfilled": true,
+        "value": "SVM"
+    },
+    "is_private_owner": {
+        "fulfilled": true,
+        "value": true
+    },
+    "perturb_method_owner": {
+        "fulfilled": true,
+        "value": "objective"
+    },
+    "lambda_owner": {
+        "fulfilled": true,
+        "value": 1e-05
+    },
+    "epsilon_owner": {
+        "fulfilled": true,
+        "value": 30
+    },
+    "huberconst_owner": {
+        "fulfilled": true,
+        "value": 0.5
+    },
+    "fit_intercept_owner": {
+        "fulfilled": true,
+        "value": true
+    },
+    "intercept_scaling_owner": {
+        "fulfilled": true,
+        "value": 1.0
+    },
+    "train_split": {
+        "fulfilled": true,
+        "value": 0.8
+    },
+    "shuffle": {
+        "fulfilled": true,
+        "value": true
+    }
+  },
+  {
+    "data": {
+      "value": ["site2_Data.csv"]
+    },
+    "covariates": {
+      "value": ["site2_Covariate.csv"]
+    },
+    "x_headers": {
+      "value": ["Left-Lateral-Ventricle","Right-Lateral-Ventricle"]
+    },
+    "y_headers": {
+      "value": ["isControl", "age"]
+    },
+    "label": {
+        "fulfilled": true,
+        "value": "isControl"
+    },
+    "model_local": {
+        "fulfilled": true,
+        "value": "SVM"
+    },
+    "is_private_local": {
+        "fulfilled": true,
+        "value": true
+    },
+    "perturb_method_local": {
+        "fulfilled": true,
+        "value": "objective"
+    },
+    "lambda_local": {
+        "fulfilled": true,
+        "value": 0.0001
+    },
+    "epsilon_local": {
+        "fulfilled": true,
+        "value": 30
+    },
+    "huberconst_local": {
+        "fulfilled": true,
+        "value": 0.5
+    },
+    "fit_intercept_local": {
+        "fulfilled": true,
+        "value": true
+    },
+    "intercept_scaling_local": {
+        "fulfilled": true,
+        "value": 1.0
+    },
+    "model_owner": {
+        "fulfilled": true,
+        "value": "SVM"
+    },
+    "is_private_owner": {
+        "fulfilled": true,
+        "value": true
+    },
+    "perturb_method_owner": {
+        "fulfilled": true,
+        "value": "objective"
+    },
+    "lambda_owner": {
+        "fulfilled": true,
+        "value": 1e-05
+    },
+    "epsilon_owner": {
+        "fulfilled": true,
+        "value": 30
+    },
+    "huberconst_owner": {
+        "fulfilled": true,
+        "value": 0.5
+    },
+    "fit_intercept_owner": {
+        "fulfilled": true,
+        "value": true
+    },
+    "intercept_scaling_owner": {
+        "fulfilled": true,
+        "value": 1.0
+    },
+    "train_split": {
+        "fulfilled": true,
+        "value": 0.8
+    },
+    "shuffle": {
+        "fulfilled": true,
+        "value": true
+    }
+  }
+]
